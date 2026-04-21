@@ -80,7 +80,15 @@ Airline-Delay-Dashboard/
 ---
 
 ## 📸 Screenshots
-_Add dashboard images here_
+
+### ✈️ Executive Overview
+![Executive Overview](screenshots/Executive_Overview.png)
+
+### 📍 Route & Airport Analysis
+![Route & Airport Analysis](screenshots/Route_Airport_Analysis.png)
+
+### 📊 Airline Performance
+![Airline Performance](screenshots/Airline_Performance.png)
 
 ---
 
