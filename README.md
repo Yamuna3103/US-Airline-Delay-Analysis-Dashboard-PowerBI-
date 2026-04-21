@@ -85,10 +85,10 @@ Airline-Delay-Dashboard/
 ![Executive Overview](https://github.com/Yamuna3103/US-Airline-Delay-Analysis-Dashboard-PowerBI-/blob/main/Airline_Performance.png)
 
 ### 📌 Route & Airport Analysis
-![Route & Airport Analysis](screenshots/Route_Airport_Analysis.png)
+![Route & Airport Analysis](https://github.com/Yamuna3103/US-Airline-Delay-Analysis-Dashboard-PowerBI-/blob/main/Route_Airport_Analysis.png)
 
 ### 📌 Airline Performance
-![Airline Performance](screenshots/Airline_Performance.png)
+![Airline Performance](https://github.com/Yamuna3103/US-Airline-Delay-Analysis-Dashboard-PowerBI-/blob/main/Executive_Overview.png)
 ---
 
 ## ▶️ How to Use
